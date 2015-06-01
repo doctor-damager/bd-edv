@@ -1,0 +1,25 @@
+.bar-royal {
+box-shadow: 0px 5px 5px grey;
+
+}
+
+.item.item-avatar {
+border-top-left-radius: 10px !important;
+border-top-right-radius: 10px !important;
+
+background-color:deepskyblue;
+   
+}
+
+.list.card {
+
+border-top-left-radius: 10px !important;
+border-top-right-radius: 10px !important;
+}
+
+.titleslash {
+
+    color : #5B554F;
+
+
+}
